@@ -172,9 +172,9 @@ sudo cp Files/System/Icons/*  $HOMEDIR/.local/icons
 #================================================
 
 
-sudo apt install ubuntu-gnome-desktop
-sudo apt install gnome-shell gnome
-sudo systemctl restart gdm3
+# sudo apt install ubuntu-gnome-desktop
+# sudo apt install gnome-shell gnome
+# sudo systemctl restart gdm3
 
 
 
